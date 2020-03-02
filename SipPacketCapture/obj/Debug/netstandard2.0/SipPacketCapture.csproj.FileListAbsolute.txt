@@ -1,0 +1,8 @@
+C:\Users\Snapple\source\repos\SipPacketCapture\SipPacketCapture\bin\Debug\netstandard2.0\SipPacketCapture.deps.json
+C:\Users\Snapple\source\repos\SipPacketCapture\SipPacketCapture\bin\Debug\netstandard2.0\SipPacketCapture.dll
+C:\Users\Snapple\source\repos\SipPacketCapture\SipPacketCapture\obj\Debug\netstandard2.0\SipPacketCapture.csproj.CoreCompileInputs.cache
+C:\Users\Snapple\source\repos\SipPacketCapture\SipPacketCapture\obj\Debug\netstandard2.0\SipPacketCapture.AssemblyInfoInputs.cache
+C:\Users\Snapple\source\repos\SipPacketCapture\SipPacketCapture\obj\Debug\netstandard2.0\SipPacketCapture.AssemblyInfo.cs
+C:\Users\Snapple\source\repos\SipPacketCapture\SipPacketCapture\bin\Debug\netstandard2.0\SipPacketCapture.pdb
+C:\Users\Snapple\source\repos\SipPacketCapture\SipPacketCapture\obj\Debug\netstandard2.0\SipPacketCapture.dll
+C:\Users\Snapple\source\repos\SipPacketCapture\SipPacketCapture\obj\Debug\netstandard2.0\SipPacketCapture.pdb
